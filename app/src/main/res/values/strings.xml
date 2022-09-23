@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week3day1</string>
+    <string name="userid">userId</string>
+    <string name="id">id</string>
+    <string name="title">title</string>
+    <string name="completed">completed</string>
+</resources>
